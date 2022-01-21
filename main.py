@@ -54,7 +54,11 @@ x=str(input('Digite seu nome:\n'))
 print('\nOlá, {}. Vamos aprender o uso dos porquês!!\n'.format(x))
 p = 0
 while p < 6 or p > 1:
-    p=int(input('Escolha um porquê e saiba como usar.\n 1_ Porque;\n 2_ Por que; \n 3_ Porquê;\n 4_ Por quê;\n 5_ Quiz.\n 6_ Sair\n\n'))
+    E = ['1_ Porque;','2_ Por que;','3_ Porquê;','4_ Por quê;','5_ Quiz;','6_ Sair.']
+    for i in range(6):
+        print(E [i])
+
+    p = int(input('\nDigite um número referente as opções acima:\n'))
 
     if p > 6 or p < 1:
         mostraLinha()
