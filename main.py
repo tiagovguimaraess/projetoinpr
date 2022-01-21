@@ -39,13 +39,13 @@ def quiz():
         print('Resposta errada : ( .\n')    
 
     y=str(input('Você não gosta dessa matéria, ______?\n'))
-    if y == 'Por quê':
+    if y == 'por quê':
         print('Certa resposta!\n')
     else:
         print('Resposta errada : ( .\n')   
 
     w=str(input('Gostaria de saber o ______ dele não falar mais comigo.\n'))
-    if w == 'Porquê':
+    if w == 'porquê':
         print('Certa resposta!\n')
     else:
         print('Resposta errada : ( .\n') 
