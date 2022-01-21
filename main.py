@@ -22,7 +22,7 @@ def extPrograma():
 
 def quiz():
     mostraLinha()
-    print('Este quiz consiste em você completar as frases usando os poequês.')
+    print('Este quiz consiste em você completar as frases usando os porquês.')
     mostraLinha()
     print('Amassa, campeão!\n')
 
