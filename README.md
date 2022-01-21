@@ -1,8 +1,10 @@
 # Projeto INPR 
-<a href="https://www.python.org">
+<span>
+<a href="https://www.python.org" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="150">
 </a>
-<img src="https://www2.ifal.edu.br/o-ifal/comunicacao/arquivos/logos/copy_of_IFALvertical.png" width="150">
+</span>
+<span> <img src="https://www2.ifal.edu.br/o-ifal/comunicacao/arquivos/logos/copy_of_IFALvertical.png" width="150"> </span>
 <br>
 
 <strong>English: </strong> This project was done as the final work of my first year of high school, integrated with a computer course. This project helped me to improve my python programming skills. 
