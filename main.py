@@ -1,5 +1,5 @@
 def mostraLinha():
-    print('-----------------------------------------------------------------')
+    print('----------------------------------------------------------------')
 
 def juntoSemAcento():
     print('\nO porque junto e sem acento é usado para respostas/explicação.\n\n Exemplo:\n')
@@ -75,9 +75,3 @@ while p < 6 or p > 1:
         extPrograma()
         break
    
-
-
-
-                
-                
-
