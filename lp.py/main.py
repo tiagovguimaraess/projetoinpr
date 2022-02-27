@@ -10,7 +10,7 @@ def separadoSemAcento():
     print('Por que o Sol brilha?\n')
 
 def juntoComAcento():
-    print('\nO \033[4;33porquê\033[m junto e com acento é usado em caso de razão e substituir um substantivo.\n\n Exemplo:\n')    
+    print('\nO \033[4;33mporquê\033[m junto e com acento é usado em caso de razão e substituir um substantivo.\n\n Exemplo:\n')    
     print('O governador precisa explicar o porquê de suas ações.\n')
 
 def separadoComAcento():
